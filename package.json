@@ -7,6 +7,7 @@
     "dependencies": {
         "dblapi.js": "^2.2.0",
         "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "discord.js": "^11.3.2",
         "winston": "^2.4.3"
     }
 }
