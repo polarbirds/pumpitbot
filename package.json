@@ -1,0 +1,12 @@
+{
+    "name": "pumpit",
+    "version": "1.0.0",
+    "description": "Get's ya blood pumpin'",
+    "main": "pumpit.js",
+    "author": "Trym Todalshaug",
+    "dependencies": {
+        "dblapi.js": "^2.2.0",
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^2.4.3"
+    }
+}
